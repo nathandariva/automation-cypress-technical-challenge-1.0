@@ -1,4 +1,4 @@
-# Desafio Tecnico
+# Desafio Técnico
 
 ## Pré Requisito
  - Ter Instalado o node.js na sua máquina
