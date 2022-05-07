@@ -27,7 +27,8 @@
      Para acompanhar a execução, no terminal execute o comando:
      - npm run test:open
    
-  - Após alguns segundos o modo open do cypress é exibido:
+   
+  - Após alguns segundos o modo open do cypress é exibido, e é só acionar em algum dos testes exibidos.
   ![cypressopen](./readme-img/cypressopen.png)
   
     
