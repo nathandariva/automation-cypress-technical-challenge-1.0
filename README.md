@@ -2,7 +2,7 @@
 
 ## Pré Requisito
  - Ter Instalado o node.js na sua máquina
- - Pode realizar o download por aqui: https://nodejs.org/en/download/
+ - Pode realizar o download através do link: https://nodejs.org/en/download/
 
 ## Após ter instalado o nodejs
 
