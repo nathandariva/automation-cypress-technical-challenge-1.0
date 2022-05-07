@@ -29,7 +29,7 @@
    
    
   - Após alguns segundos o modo open do cypress é exibido, e é só acionar em algum dos testes exibidos.
-  ![cypressopen](./readme-img/cypressopen.png)
+  ![cypress-open](./readme-img/cypress-open.png)
   
     
 ## Modo Headless
