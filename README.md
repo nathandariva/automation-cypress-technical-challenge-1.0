@@ -10,7 +10,7 @@
 - 2º: executar o comando "npm install" dentro da pasta clonada, para installar todas as dependências do projeto
 
 ## Variáveis de Ambiente 
- - Nesses testes temos conteúdos sensiveis, então tivemos a necessidade de criar as variaveis de ambiente
+ - Nesses testes temos conteúdos sensiveis, então a necessidade de criar as variaveis de ambiente
  - Na raiz do projeto, criar o arquivo com o nome: cypress.env.json;
  - Neste arquivo deve ser adicionadas o padrão de estrutura apresentada no arquivo "cypress.env.exemple.txt"
 
@@ -25,13 +25,16 @@
 
 ## Modo Open
      Para acompanhar a execução, no terminal execute o comando:
-     npm run test:open
+     - npm run test:open
+   
+  - Após alguns segundos o modo open do cypress é exibido:
+  ![cypressopen](./readme-img/cypressopen.png)
+  
     
 ## Modo Headless
-    Para executar direto no terminal execute o comando:
-    npm run test:headless
+    Para rodar direto no terminal, execute o comando:
+    - npm run test:headless
 
-# Cenários contemplados nessa automação
 ![login](./readme-img/login.png)
 
 ![flow](./readme-img/flow.png)
