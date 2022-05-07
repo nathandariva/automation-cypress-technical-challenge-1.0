@@ -1,4 +1,4 @@
-# Como Instalar este Projeto
+# Desafio Tecnico
 
 ## Pré Requisito
  - Ter Instalado o node.js na sua máquina
@@ -7,10 +7,11 @@
 ## Após ter instalado node
 
 1º passo: clonar o projeto do github
-2º passo: npm install para installar todas as depencias do projeto
+2º passo: executar o comando "npm install" para installar todas as dependências do projeto
+
 
 ## Váriaveis de Ambiente 
- - Nesses testes tratamos de conteúdos sensiveis, então se viu a necessidade de criar as variaveis de ambiente
+ - Nesses testes temos conteúdos sensiveis, então tivemos a necessidade de criar as variaveis de ambiente
  - Na raiz do projeto, criar o arquivo com o nome: cypress.env.json;
  - Neste arquivo deve ser adicionadas o padrão de estrutura apresentada no arquivo "cypress.env.exemple.txt"
 
@@ -24,18 +25,12 @@
 
 ## Modo Open
     - Para acompanhar a execução, no terminal execute o comando:
-
-    ```bash
     npm run test:open
-    ```
     
 
 ## Modo Headless
-- Para acompanhar a execução, no terminal execute o comando:
-    
-    ```bash
+- Para executar direto no terminal execute o comando:
     npm run test:headless
-    ```
 
 # Cenários contemplados nessa automação
 ![login](./readme-img/login.png)
