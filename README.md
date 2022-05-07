@@ -14,13 +14,11 @@
  - Na raiz do projeto, criar o arquivo com o nome: cypress.env.json;
  - Neste arquivo deve ser adicionadas o padrão de estrutura apresentada no arquivo "cypress.env.exemple.txt"
 
-´´´bash
-{
- "TIMEOUT": deve passar um tempo em milisegungos, exemplo: 10000, para aguardar em até 10s
- "EMAIL": deve ter uma conta pré criada, informar seu email aqui
- "SENHA": informar a senha correta do respectivo email
- }
- ´´´
+
+  - "TIMEOUT": Deve passar um valor em milisegungos, exemplo: 10000, para aguardar em até 10s.
+    "EMAIL": Deve ter uma conta pré criada, informar seu email aqui.
+    "SENHA": Informar a senha correta do respectivo email.
+    
 
 # Como executar os testes
 
