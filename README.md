@@ -14,21 +14,21 @@
  - Na raiz do projeto, criar o arquivo com o nome: cypress.env.json;
  - Neste arquivo deve ser adicionadas o padrão de estrutura apresentada no arquivo "cypress.env.exemple.txt"
 
-##
- - "TIMEOUT": Deve passar um valor em milisegungos, exemplo: 10000, para aguardar em até 10s.
-    "EMAIL": Deve ter uma conta pré criada, informar seu email aqui.
-    "SENHA": Informar a senha correta do respectivo email.
+## Exemplo
+    {
+    "TIMEOUT": Deve passar um valor em milisegungos, exemplo: 10000, para aguardar em até 10s.
+    "EMAIL": "Deve ter uma conta pré criada, informar seu email aqui."
+    "SENHA": "Informar a senha correta do respectivo email."
+    }
     
-
 # Como executar os testes
 
 ## Modo Open
-    - Para acompanhar a execução, no terminal execute o comando:
-    npm run test:open
+     Para acompanhar a execução, no terminal execute o comando:
+     npm run test:open
     
-
 ## Modo Headless
-- Para executar direto no terminal execute o comando:
+    Para executar direto no terminal execute o comando:
     npm run test:headless
 
 # Cenários contemplados nessa automação
