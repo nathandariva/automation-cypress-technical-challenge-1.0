@@ -6,9 +6,8 @@
 
 ## Após ter instalado node
 
-1º passo: clonar o projeto do github
-2º passo: executar o comando "npm install" para installar todas as dependências do projeto
-
+- 1º: clonar o projeto do github
+- 2º: executar o comando "npm install" para installar todas as dependências do projeto
 
 ## Váriaveis de Ambiente 
  - Nesses testes temos conteúdos sensiveis, então tivemos a necessidade de criar as variaveis de ambiente
