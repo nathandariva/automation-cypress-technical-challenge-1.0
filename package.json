@@ -1,0 +1,16 @@
+{
+  "name": "automation-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:open": "npx cypress open",
+    "test:headless": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "Nathan Dariva",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.1.0"
+  }
+}
