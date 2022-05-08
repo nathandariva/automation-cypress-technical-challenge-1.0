@@ -17,8 +17,8 @@
 ## Exemplo
     {
     "TIMEOUT": Deve passar um valor em milisegungos, exemplo: 10000, para aguardar em até 10s.
-    "EMAIL": "Deve ter uma conta pré criada, informar seu email aqui."
-    "SENHA": "Informar a senha correta do respectivo email."
+    "EMAIL": "Deve ter uma conta pré criada na plataforma do Kabum, informar seu email aqui."
+    "SENHA": "Informar a senha correta do respectivo email utilizado na plataforma."
     }
     
 # Como executar os testes
