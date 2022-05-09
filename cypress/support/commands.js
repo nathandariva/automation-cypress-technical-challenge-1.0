@@ -1,6 +1,3 @@
-const LOCATOR_HOME = require('../support/pages/home/elements').HOME
-
-
 Cypress.Commands.add('validateUrl', (url) => {
     cy.url()
         .should('contain', url, { timeout: Cypress.env('timeout') })
